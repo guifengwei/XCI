@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Programmer: Wei Guifeng, <guifengwei@gmail.com-o
+# Programmer: Wei Guifeng, <guifengwei@gmail.com>
 #-- coding: utf-8 --
 #Last-modified: 12 Jan 2016 17:19:18
 
