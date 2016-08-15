@@ -1,2 +1,2 @@
 # XCI
-Scripts used for X-mediated chromosome silencing analysis
+Scripts used for Xist-mediated chromosome silencing analysis
