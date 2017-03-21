@@ -6,9 +6,9 @@ data <- read.table("Chr11_CellLines_comm2_RS_Pvalue.txt", header = TRUE, sep = "
 
 data$site = ceiling(data$TSSStart/1000000)
 
-for(i in 1:max(data$site)){
-	print(c(i, median(data[data$site==i,]$MiniXist_cRS),  median(data[data$site==i,]$DelBMiniXist_cRS)), quote=F)
-}
+#for(i in 1:max(data$site)){
+#	print(c(i, median(data[data$site==i,]$MiniXist_cRS),  median(data[data$site==i,]$DelBMiniXist_cRS)), quote=F)
+#}
 
 library(ggplot2)
 data$site2=ifelse(data$site<=61,"L", "R")
