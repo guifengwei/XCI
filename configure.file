@@ -1,0 +1,25 @@
+
+
+### define the experimental files
+
+NoDox=CL1_NoDox.counts
+
+DoxA=CL1_DoxA.counts
+
+DoxB=CL1_DoxB.counts
+
+
+#### parameters for removing the genes with low expression
+_cut_off =3
+
+NoDox_genome1=CL1_NoDox.genome1.counts
+
+NoDox_genome2=CL1_NoDox.genome2.counts
+
+DoxA_genome1=CL1_DoxA.genome1.counts
+
+DoxA_genome2=CL1_DoxA.genome2.counts
+
+DoxB_genome1=CL1_DoxB.genome1.counts
+
+DoxB_genome2=CL1_DoxB.genome2.counts
